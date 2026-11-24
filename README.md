@@ -6,6 +6,7 @@ Discrete-time signals lab work completed in Google Colab.
 
 - `Discrete_Time_signal_Assignment.ipynb` — Colab notebook with the signal-generation plots, voice-recording analysis (waveform and spectrogram), and the analysis answers.
 - `analysis_questions.md` — standalone copy of the analysis answers.
+- `Record (online-voice-recorder.com).mp3` — the uploaded voice recording analysed in the notebook (48 kHz, 7.104 s).
 
 ## Analysis questions
 
